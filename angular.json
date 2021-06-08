@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Covid19App"
+  "defaultProject": "Covid19App",
+  "cli": {
+    "analytics": "6591b6e8-b488-4b21-a745-38a8e80d78fd"
+  }
 }
