@@ -1,4 +1,5 @@
 # Covid19App
+This app give you the whole world information about covid19 like Country Name, Total Confirmed Cases, Total Deaths, Total Recovered
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
